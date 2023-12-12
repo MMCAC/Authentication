@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'bold';
+  src: url('./assets/fonts/Montserrat-Bold-Copia.ttf');
+}
+
+@font-face {
+  font-family: 'regular';
+  src: url('./assets/fonts/Montserrat-Regular-Copia.ttf');
+}
+
+:root {
+  --button-color: #000000;
+}
